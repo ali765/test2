@@ -49,4 +49,6 @@ print(t.count('a'))
 print(t.index('a'))
 print(t.count('b'))
 
+print("merci")
+
 
